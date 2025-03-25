@@ -1,0 +1,9 @@
+# Virtual environment
+venv/
+venv/*
+
+# Bytecode files
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
